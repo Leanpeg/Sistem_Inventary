@@ -1,0 +1,28 @@
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\Sistema_De_Inventario\Sistema_De_Inventario\bin\Debug\net8.0\Sistema_De_Inventario.exe
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\Sistema_De_Inventario\Sistema_De_Inventario\bin\Debug\net8.0\Sistema_De_Inventario.deps.json
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\Sistema_De_Inventario\Sistema_De_Inventario\bin\Debug\net8.0\Sistema_De_Inventario.runtimeconfig.json
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\Sistema_De_Inventario\Sistema_De_Inventario\bin\Debug\net8.0\Sistema_De_Inventario.dll
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\Sistema_De_Inventario\Sistema_De_Inventario\bin\Debug\net8.0\Sistema_De_Inventario.pdb
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\Sistema_De_Inventario\Sistema_De_Inventario\obj\Debug\net8.0\Sistema_De_Inventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\Sistema_De_Inventario\Sistema_De_Inventario\obj\Debug\net8.0\Sistema_De_Inventario.AssemblyInfoInputs.cache
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\Sistema_De_Inventario\Sistema_De_Inventario\obj\Debug\net8.0\Sistema_De_Inventario.AssemblyInfo.cs
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\Sistema_De_Inventario\Sistema_De_Inventario\obj\Debug\net8.0\Sistema_De_Inventario.csproj.CoreCompileInputs.cache
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\Sistema_De_Inventario\Sistema_De_Inventario\obj\Debug\net8.0\Sistema_De_Inventario.dll
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\Sistema_De_Inventario\Sistema_De_Inventario\obj\Debug\net8.0\refint\Sistema_De_Inventario.dll
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\Sistema_De_Inventario\Sistema_De_Inventario\obj\Debug\net8.0\Sistema_De_Inventario.pdb
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\Sistema_De_Inventario\Sistema_De_Inventario\obj\Debug\net8.0\Sistema_De_Inventario.genruntimeconfig.cache
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\Sistema_De_Inventario\Sistema_De_Inventario\obj\Debug\net8.0\ref\Sistema_De_Inventario.dll
+C:\Users\Innotech Advance\Desktop\Tarea 21092025\Sistema_De_Inventario\Sistema_De_Inventario\Sistema_De_Inventario\bin\Debug\net8.0\Sistema_De_Inventario.exe
+C:\Users\Innotech Advance\Desktop\Tarea 21092025\Sistema_De_Inventario\Sistema_De_Inventario\Sistema_De_Inventario\bin\Debug\net8.0\Sistema_De_Inventario.deps.json
+C:\Users\Innotech Advance\Desktop\Tarea 21092025\Sistema_De_Inventario\Sistema_De_Inventario\Sistema_De_Inventario\bin\Debug\net8.0\Sistema_De_Inventario.runtimeconfig.json
+C:\Users\Innotech Advance\Desktop\Tarea 21092025\Sistema_De_Inventario\Sistema_De_Inventario\Sistema_De_Inventario\bin\Debug\net8.0\Sistema_De_Inventario.dll
+C:\Users\Innotech Advance\Desktop\Tarea 21092025\Sistema_De_Inventario\Sistema_De_Inventario\Sistema_De_Inventario\bin\Debug\net8.0\Sistema_De_Inventario.pdb
+C:\Users\Innotech Advance\Desktop\Tarea 21092025\Sistema_De_Inventario\Sistema_De_Inventario\Sistema_De_Inventario\obj\Debug\net8.0\Sistema_De_Inventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innotech Advance\Desktop\Tarea 21092025\Sistema_De_Inventario\Sistema_De_Inventario\Sistema_De_Inventario\obj\Debug\net8.0\Sistema_De_Inventario.AssemblyInfoInputs.cache
+C:\Users\Innotech Advance\Desktop\Tarea 21092025\Sistema_De_Inventario\Sistema_De_Inventario\Sistema_De_Inventario\obj\Debug\net8.0\Sistema_De_Inventario.AssemblyInfo.cs
+C:\Users\Innotech Advance\Desktop\Tarea 21092025\Sistema_De_Inventario\Sistema_De_Inventario\Sistema_De_Inventario\obj\Debug\net8.0\Sistema_De_Inventario.csproj.CoreCompileInputs.cache
+C:\Users\Innotech Advance\Desktop\Tarea 21092025\Sistema_De_Inventario\Sistema_De_Inventario\Sistema_De_Inventario\obj\Debug\net8.0\Sistema_De_Inventario.dll
+C:\Users\Innotech Advance\Desktop\Tarea 21092025\Sistema_De_Inventario\Sistema_De_Inventario\Sistema_De_Inventario\obj\Debug\net8.0\refint\Sistema_De_Inventario.dll
+C:\Users\Innotech Advance\Desktop\Tarea 21092025\Sistema_De_Inventario\Sistema_De_Inventario\Sistema_De_Inventario\obj\Debug\net8.0\Sistema_De_Inventario.pdb
+C:\Users\Innotech Advance\Desktop\Tarea 21092025\Sistema_De_Inventario\Sistema_De_Inventario\Sistema_De_Inventario\obj\Debug\net8.0\Sistema_De_Inventario.genruntimeconfig.cache
+C:\Users\Innotech Advance\Desktop\Tarea 21092025\Sistema_De_Inventario\Sistema_De_Inventario\Sistema_De_Inventario\obj\Debug\net8.0\ref\Sistema_De_Inventario.dll
