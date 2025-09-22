@@ -1,6 +1,6 @@
 # Sistem_Inventary
 
-# Sistema De Inventario 🧾
+# Sistema De Inventario 
 
 Este es un proyecto simple de programación estructurada en C#, diseñado para gestionar inventarios de manera básica.
 
